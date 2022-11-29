@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    padding: 5;
+    padding: 4;
     box-sizing: border-box;
    
 }
@@ -9,7 +9,13 @@ body {
     display: flex;                  
     justify-content: center;
     align-items: left;
+
+    line-height: 30 px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: Italic;
+ 
 }
+
 .full {
     width: 50%;
     max-width: 1000px;
@@ -34,3 +40,8 @@ body {
 .Summary, .Experience, .Education, .project {
     margin-bottom: 0px;
 }
+
+
+  
+    
+
